@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/korn/git/kmitl-oods/lab-4'
+let g:netrw_dirhist_6='/home/korn/git/simple-password-generator'
+let g:netrw_dirhist_5='/home/korn/git/kornyellow/contents'
+let g:netrw_dirhist_4='/home/korn/.local/share/applications'
+let g:netrw_dirhist_3='/home/korn/git/leetcode/python'
+let g:netrw_dirhist_2='/home/korn/git/leetcode'
+let g:netrw_dirhist_1='/home/korn/git/leetcode/python'
+let g:netrw_dirhist_0='/home/korn/documents/notepad/goal'
+let g:netrw_dirhist_9='/home/korn'
+let g:netrw_dirhist_8='/home/korn/git/ceboostup-x/packetDecoderII'
